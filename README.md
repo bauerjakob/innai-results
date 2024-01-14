@@ -45,6 +45,10 @@ All diagrams are generated in the JupyterNotebook 👉 <a href="./results.ipynb"
     <img src="./images/overview.png" width="700" />
 </p>
 
+<p align="center">
+    <img src="./images/overview2.png" width="700" />
+</p>
+
 
 ## Day by day performance of each model
 ### Salmon Swirl
